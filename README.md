@@ -14,7 +14,7 @@
 
 作成されるドキュメントフォーマット
 
-<img width="1395" alt="スクリーンショット 2023-07-17 14 56 17" src="https://github.com/RyutoShirakawa/gas-automation/assets/87289018/f227c85f-07a3-41a4-afea-1a0d2d548cd2">
+<img width="1395" alt="スクリーンショット 2023-07-17 14 56 17" src="https://github.com/RyutoShirakawa/gas-automation/assets/87289018/9d1b18a4-56a9-4e92-bcb3-3ed1bb4cfa3e">
 
 各欄の説明
 
@@ -29,7 +29,7 @@
 
 番組を記録するシートフォーマット
 
-<img width="1426" alt="スクリーンショット 2023-07-17 15 05 58" src="https://github.com/RyutoShirakawa/gas-automation/assets/87289018/063d6a9b-cf0e-44b8-8db0-fbfcd956d398">
+<img width="1426" alt="スクリーンショット 2023-07-17 15 05 58" src="https://github.com/RyutoShirakawa/gas-automation/assets/87289018/688c610c-6f1d-49af-bc55-e14bcef416bd">
 
 ### 番組記録シート
 各カラムの説明
@@ -47,7 +47,7 @@ A列に氏名とB列にslackIdを入力している
 
 ## フォーム作成（Form）
 
-<img width="845" alt="スクリーンショット 2023-07-17 15 18 19" src="https://github.com/RyutoShirakawa/gas-automation/assets/87289018/4db97d67-dea5-4c6d-90f1-a77e548004d8">
+<img width="845" alt="スクリーンショット 2023-07-17 15 18 19" src="https://github.com/RyutoShirakawa/gas-automation/assets/87289018/f3d0bdca-ccc5-44e2-a395-8bfe5ba19e01">
 
 ## slack通知
 slackのスラッシュコマンド機能を使いコマンドでslackへ通知する
