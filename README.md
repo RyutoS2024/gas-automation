@@ -1,8 +1,15 @@
-# gas-automation
+# 社内有志活動自動化アプリ
 
 社内活動の事務作業を自動化するプログラム
-以下の機能を有する
 
+## 使用技術
+- Google Document
+- Google Spreadsheet
+- Google Form
+- GAS
+- Salek
+
+## 機能
 - ドキュメント作成
 - スケジュール管理
 - フォーム作成
